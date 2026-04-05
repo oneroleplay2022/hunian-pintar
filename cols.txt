@@ -1,0 +1,1 @@
+id, tenant_id, user_id, action, table_name, record_id, old_values, new_values, ip_address, created_at
