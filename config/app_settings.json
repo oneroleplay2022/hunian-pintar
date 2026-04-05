@@ -1,0 +1,17 @@
+{
+    "app_name": "Hunian Pintar Indonesia",
+    "currency": "IDR",
+    "maintenance_mode": false,
+    "support_email": "help@hunianpintar.id",
+    "support_phone": "0881081010216",
+    "favicon_path": "uploads\/branding\/favicon_1774774416.png",
+    "logo_path": "uploads\/branding\/logo_1774774627.png",
+    "payment_instructions": "",
+    "bank_accounts": [
+        {
+            "name": "WFG",
+            "number": "1234 567 8900",
+            "holder": "PT. Hunian Pintar Indonesia"
+        }
+    ]
+}
