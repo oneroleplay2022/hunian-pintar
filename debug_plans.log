@@ -1,8 +1,0 @@
-=== PLANS ===
-ID:1 | Warga Lite | Rp 250,000 | Max: 50
-ID:2 | Warga Pro | Rp 750,000 | Max: 200
-ID:3 | Warga Enterprise | Rp 2,500,000 | Max: 1000
-
-=== TENANTS ===
-ID:2 | Griya Ghaniya | plan_id:1 | plan:Warga Lite | price:250000.00 | status:active | houses:1
-ID:3 | Margahayu Permai | plan_id:NULL | plan:NONE | price:0 | status:active | houses:1
